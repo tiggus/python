@@ -1,18 +1,16 @@
-from main.rental.Car import Car
-from main.rental.CarRentalCompany import *
-from main.rental.Criteria import Criteria
+from Car import Car
+from CarRentalCompany import *
 import threading
+from Criteria import Criteria
 
 class CarRentalTest:
-    def __init__(self):
-        self.cars = [
-            Car("Toyota", "RAV4", "NHK 337P", "B2", 90),
-            Car("BMW", "X3", "NHK 338P", "C1", 90),
-            Car("BMW", "X5", "NHK 339P", "A1", 90),
-            Car("Ford", "Fiesta", "NHK 340P", "A1", 90)
-        ]
-        self.lock = threading.Lock()
-
+    cars = [
+        Car("Toyota", "RAV4", "NHK 337P", "B2", 90),
+        Car("BMW", "X3", "NHK 338P", "C1", 90),
+        Car("BMW", "X5", "NHK 339P", "A1", 90),
+        Car("Ford", "Fiesta", "NHK 340P", "A1", 90)
+    ]
+   
 def main():
     rental_company = CarRentalTest()
     
