@@ -1,4 +1,9 @@
+# from Criteria import Criteria
+# from Car import Car
 import threading
+
+# filter = Criteria('BMW')
+# print('filtermake:', filter.make_criteria() )
 
 class CarRentalCompany:
     def __init__(self):
