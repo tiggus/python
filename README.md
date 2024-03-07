@@ -3,6 +3,13 @@
 ## my notes
 
 ### production
+
+- security
+
+- automated unit and sec tests (whitesource, checkov)
+
+- logging, monitoring
+
 - database
 
 - frontend, app server
