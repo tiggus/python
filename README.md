@@ -33,6 +33,10 @@ unittest -> python -m unittest CarRentalTest.py
 
 - logging, monitoring
 
+- return car to pool
+
+- maintain pool
+
 - database
 
 - frontend, app server
@@ -41,7 +45,7 @@ unittest -> python -m unittest CarRentalTest.py
 
 - mutiple envs
 
-- redudancy
+- redundancy
 
 - secrets 
 
