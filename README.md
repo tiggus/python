@@ -21,6 +21,8 @@
 
 ### discussion points
 
+> data model: https://vertabelo.com/blog/renting-out-cars-is-as-simple-as-driving-a-data-model-for-a-car-rental-company/
+
 > hosting
 
 > do we start with a basic gui / input and results
@@ -135,6 +137,8 @@ design criteria: the in memory storage should consider threadsafety, all access 
     - complete the process adds the new dates to the specific cars [bookings]
 
     - abort the process removes the transacation ID from the inflight booking and exits
+
+![](data.png)
 
 > Time for a GUI, DB (node, react, postgres)
 
