@@ -2,6 +2,17 @@
 
 ## my notes
 
+https://github.com/tiggus/car-rental
+https://github.com/tiggus/car-rental-python/blob/main/story1.py
+
+https://github.com/tiggus/python
+
+working/car-rental.py - BMW in parameters (Criteria class - def make_criteria)
+classes.py -> returns classes, to be expanded for params / vars
+basic.py -> scratch / test file
+
+unittest -> python -m unittest CarRentalTest.py
+
 ### production
 
 - security

@@ -1,4 +1,3 @@
-
 # class Criteria:
 #     pass
 # #     def __init__(self, make):
