@@ -1,5 +1,5 @@
-# from Criteria import Criteria
-# from Car import Car
+from main.rental.Criteria import Criteria
+from main.rental.Car import Car
 import threading
 
 # filter = Criteria('BMW')
