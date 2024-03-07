@@ -3,6 +3,14 @@
 ## my notes
 
 https://github.com/tiggus/car-rental
+
+local in git\car-rental
+
+this one was found via search, cloned and checks for anything malicious
+
+unittest amended to print cost criteria (60) (999) etc - run direct via CarRentalTest.py
+
+
 https://github.com/tiggus/car-rental-python/blob/main/story1.py
 
 https://github.com/tiggus/python
@@ -12,6 +20,10 @@ classes.py -> returns classes, to be expanded for params / vars
 basic.py -> scratch / test file
 
 unittest -> python -m unittest CarRentalTest.py
+
+../car-rental-booking/CarRentalTest.py - booking with from date
+../car-rental-booking/story1.py - prompts for input BMW for example - no error handling
+
 
 ### production
 
