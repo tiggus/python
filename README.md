@@ -175,6 +175,7 @@ design criteria: the in memory storage should consider threadsafety, all access 
 ![](data.png)
 
 > Time for a GUI, DB (node, react, postgres)
+> show giu - thinkter and IDLE
 
 ---
 
@@ -300,3 +301,12 @@ acceptance criteria: the booking method is updated to accept this new price whic
 - discuss report options: data, frequency, audience
 
 - store output iun DB to enable history, foreward planning
+
+## future
+
+DB, persistent storage, concurrency control (handle multiple simultaneous read and write operations etc), handle large volumes of data, scale with growing application requirements, indexing, caching, and query optimization techniques (to improve performance and reduce response times). 
+
+Microservices: Modular and scalable architecture.
+Real-time Data: Instant updates for users.
+Machine Learning: Personalized experiences and predictive analytics.
+Geolocation Services: Enhanced user navigation and location-based features.
